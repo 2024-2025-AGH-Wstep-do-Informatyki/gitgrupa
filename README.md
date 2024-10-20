@@ -1,0 +1,2 @@
+# gitgrupa
+projekt gitgrupy
