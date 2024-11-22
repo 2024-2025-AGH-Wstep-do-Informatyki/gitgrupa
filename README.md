@@ -14,3 +14,7 @@ Authors
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+
+Appreciation to all of the authors for their hard work.
